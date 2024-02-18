@@ -21,7 +21,7 @@
     "browser-sync": "^2.29.1",
     "cypress": "^12.11.0",
     "eslint": "^8.43.0",
-    "eslint-config-prettier": "^8.8.0",
+    "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-prettier": "^4.2.1",
     "gulp": "^4.0.2",
     "gulp-eslint": "^6.0.0",
